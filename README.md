@@ -11,6 +11,6 @@ To help them complete this business task, the marketing team has assigned me wit
 ## Other info
 The tecnhical tools I used during this project are Excel, SQL and Tableau.
 To view my completed project, where I walk through all the steps I took and the insights I reached, go here: [Medium Article](https://medium.com/p/af68dea25338/edit)
-To view the SQL queries, For merging and transformation click [here](https://github.com/Nakel-1/Cyclistic_Case_Study/blob/main/01_Merging%20and%20Transformation.sql) , for data cleaning click [here]() for the analysis portion click [here]().
+To view the SQL queries, For merging and transformation click [here](https://github.com/Nakel-1/Cyclistic_Case_Study/blob/main/01_Merging%20and%20Transformation.sql) , for data cleaning click [here](https://github.com/Nakel-1/Cyclistic_Case_Study/blob/main/02_Cleaning.sql) for the analysis portion click [here]().
 To view the data visualizations, visit my Tableau Public Cyclistic Project Page [here]()
 To view the raw dataset used in this case, go [here](https://divvy-tripdata.s3.amazonaws.com/index.html)
