@@ -1,7 +1,7 @@
 # Cyclistic_Case_Study
 Google Data Analytics Capstone Project
 ## Introduction
-To complete the Google Data Analytics Professional Certificate, I have completed a Capstone Project highlighting some of the technical skills (Excel, SQL, Tableau) I learned during the course. I chose to analyze the Case Study 1 for my Capstone Project which is the 'Cyclistic Case Study'.
+To complete the Google Data Analytics Professional Certificate, I have completed a Capstone Project highlighting some of the technical skills (Excel, SQL and Tableau) I learned during the course. I chose to analyze the Case Study 1 for my Capstone Project which is the 'Cyclistic Case Study'.
 
 ## Background
 Cyclistic is a fictional bike-share company based in Chicago which offers over 6000 bikes at 800+ docking stations spread around Chicago. At the moment they offer bikes for use to two customer segments: Casuals and Members.
